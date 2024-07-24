@@ -63,4 +63,4 @@ All scripts and projects in this repository are created solely for testing and e
 To explore the projects, clone the repository and navigate to the desired directory. For the scripts involving API interactions or Selenium automation, ensure you have the necessary dependencies installed:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
